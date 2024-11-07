@@ -26,14 +26,11 @@ function load_md(file: string) {
   return marked.parse(data);
 }
 
-
-
 /*WebGl Loader*/
 
 let glRender: string = `<canvas id="gl" width="400" height="400"></canvas>`;
 
 app.get("/", (req, res) => {
-  console.log(`[${new Date}] ${req.ip}`);
   res.render("index", {
     titleName: "Home ",
     aboutus: load_md("index.md"),
