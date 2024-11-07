@@ -46,5 +46,29 @@
         "name": "7:15AM Yearbook Picture",
         "timeStart": 0,
         "timeEnd": 1
+    },
+    {
+        "date": "2024-11-7",
+        "name": "Meeting",
+        "timeStart": 0,
+        "timeEnd": 1
+    },
+        {
+        "date": "2024-11-14",
+        "name": "Meeting",
+        "timeStart": 0,
+        "timeEnd": 1
+    },
+        {
+        "date": "2024-11-21",
+        "name": "Meeting",
+        "timeStart": 0,
+        "timeEnd": 1
+    },
+        {
+        "date": "2024-11-28",
+        "name": "Meeting",
+        "timeStart": 0,
+        "timeEnd": 1
     }
 ]

@@ -13,7 +13,7 @@ body {
     margin: 0;
 }
 
-#hero {
+/*#hero {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -26,11 +26,11 @@ body {
     padding-top: 8rem;
     padding-bottom: 8rem;
     background-repeat: no-repeat;
-    /*height: 60vh;*/
-}
+    /*height: 60vh;
+}*/
 
 /*#e6e6e7*/
-#title h1 {
+/*#title h1 {
     background-color: black;
     color: #e6e6e7;
     font-size: 80px;
@@ -40,7 +40,7 @@ body {
     height: fit-content;
     width: fit-content;
     margin: 0;
-}
+}*/
 
 @font-face {
     font-family: 'Fira';

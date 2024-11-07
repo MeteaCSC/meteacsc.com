@@ -17,5 +17,3 @@ The Metea Valley Computer Science Club is about all things related to computers!
 >Time: **Thursdays 2:30 - 3:30 PM**
 
 >Locations: Room D109 - Main room
-
-# Heads up! We will be taking the club photo in the auditorium @ 7:15 AM on 10/11
